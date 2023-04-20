@@ -5,7 +5,7 @@ public class Computer {
     private String name;
     private boolean hasKeyboard;
 
-    public int getCost(){
+    public int getCost() {
         return cost;
     }
     public Computer(String name,int cost, boolean hasKeyboard){
