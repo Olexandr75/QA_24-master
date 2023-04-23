@@ -1,4 +1,4 @@
-package HomeWork;
+package HomeWork.HW2;
 
 public class Mane {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package HomeWork;
+package HomeWork.HW2;
 
 public class Task3 {
 

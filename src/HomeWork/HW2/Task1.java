@@ -1,7 +1,5 @@
-package HomeWork;
+package HomeWork.HW2;
 
-
-import java.util.Arrays;
 
 public class Task1 {
 
